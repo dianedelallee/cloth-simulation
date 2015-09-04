@@ -3,9 +3,9 @@ c++ cloth simulation
 
 Verlet's algorithm 
 ------
-```tex
-\sum_{x=0}^n f(x)
-```
+\begin{equation}
+  a^2+b^2=c^2
+\end{equation}
 
 Building on Mac
 -------
