@@ -38,10 +38,10 @@ Commands
 
 Images
 ------
-<img src="http://diane-delallee.fr/assets/images/openGL.png" width="50%">
-<img src="http://diane-delallee.fr/assets/images/cube.png" width="50%">
-<img src="http://diane-delallee.fr/assets/images/sphere.png" width="50%">
-<img src="http://diane-delallee.fr/assets/images/flag.png" width="50%">
+<img src="http://diane-delallee.fr/assets/images/openGL.png" width="49%">
+<img src="http://diane-delallee.fr/assets/images/cube.png" width="49%">
+<img src="http://diane-delallee.fr/assets/images/sphere.png" width="49%">
+<img src="http://diane-delallee.fr/assets/images/flag.png" width="49%">
 
 License
 -------
