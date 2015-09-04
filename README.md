@@ -39,6 +39,9 @@ Commands
 Images
 ------
 ![OpenGL img](http://diane-delallee.fr/assets/images/openGL.png)
+![OpenGL img](http://diane-delallee.fr/assets/images/cube.png)
+![OpenGL img](http://diane-delallee.fr/assets/images/sphere.png)
+![OpenGL img](http://diane-delallee.fr/assets/images/flag.png)
 
 
 License
