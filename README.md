@@ -3,9 +3,12 @@ c++ cloth simulation
 
 Verlet's algorithm 
 ------
-\begin{equation}
-  a^2+b^2=c^2
-\end{equation}
+```
+acc = force/mass
+newPos = 2 * (pos - oldPos) + acc * (Δt*Δt)
+oldPos = pos
+pos = newPos
+```
 
 Building on Mac
 -------
