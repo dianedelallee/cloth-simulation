@@ -1,5 +1,6 @@
 # cloth-simulation
-c++ cloth simulation
+c++ cloth simulation (system spring mass)
+Finished in February 2013
 
 Verlet's algorithm 
 ------
@@ -42,6 +43,10 @@ Images
 <img src="http://diane-delallee.fr/assets/images/cube.png" width="49%">
 <img src="http://diane-delallee.fr/assets/images/sphere.png" width="49%">
 <img src="http://diane-delallee.fr/assets/images/flag.png" width="49%">
+
+Video
+------
+[Video on Vimeo](https://vimeo.com/58957868)
 
 License
 -------
