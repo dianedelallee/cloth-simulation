@@ -38,6 +38,7 @@ Commands
 
 Images
 ------
+<img src="https://github.com/favicon.ico" width="100">
 ![OpenGL img](http://diane-delallee.fr/assets/images/openGL.png)
 ![OpenGL img](http://diane-delallee.fr/assets/images/cube.png)
 ![OpenGL img](http://diane-delallee.fr/assets/images/sphere.png)
