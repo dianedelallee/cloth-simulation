@@ -38,12 +38,10 @@ Commands
 
 Images
 ------
-<img src="https://github.com/favicon.ico" width="100">
-![OpenGL img](http://diane-delallee.fr/assets/images/openGL.png)
-![OpenGL img](http://diane-delallee.fr/assets/images/cube.png)
-![OpenGL img](http://diane-delallee.fr/assets/images/sphere.png)
-![OpenGL img](http://diane-delallee.fr/assets/images/flag.png)
-
+<img src="http://diane-delallee.fr/assets/images/openGL.png" width="300">
+<img src="http://diane-delallee.fr/assets/images/cube.png" width="300">
+<img src="http://diane-delallee.fr/assets/images/sphere.png" width="300">
+<img src="http://diane-delallee.fr/assets/images/flag.png" width="300">
 
 License
 -------
