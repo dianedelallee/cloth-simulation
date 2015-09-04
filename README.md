@@ -1,13 +1,17 @@
 # cloth-simulation
 c++ cloth simulation
 
+Verlet's algorithm 
+------
+```tex
+\sum_{x=0}^n f(x)
+```
+
 Building on Mac
 -------
+Open a terminal
 Move to your repository<br/>
-g++ -framework GLUT -framework OpenGL -framework Cocoa fileName.cpp -o execName
-<br/>
-./execName
-
+and execute these command lines
 ```{r, engine='bash', count_lines}
 g++ -framework GLUT -framework OpenGL -framework Cocoa fileName.cpp -o execName
 ./execName
