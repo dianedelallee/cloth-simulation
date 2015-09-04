@@ -38,8 +38,8 @@ Commands
 
 Images
 ------
-<img src="http://diane-delallee.fr/assets/images/openGL.png" width="300">
-<img src="http://diane-delallee.fr/assets/images/cube.png" width="300">
+<img src="http://diane-delallee.fr/assets/images/openGL.png" width="25%">
+<img src="http://diane-delallee.fr/assets/images/cube.png" width="25%">
 <img src="http://diane-delallee.fr/assets/images/sphere.png" width="300">
 <img src="http://diane-delallee.fr/assets/images/flag.png" width="300">
 
