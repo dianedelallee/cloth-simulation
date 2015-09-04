@@ -1,6 +1,18 @@
 # cloth-simulation
 c++ cloth simulation
 
+Building on Mac
+-------
+Move to your repository<br/>
+g++ -framework GLUT -framework OpenGL -framework Cocoa fileName.cpp -o execName
+<br/>
+./execName
+
+```{r, engine='bash', count_lines}
+g++ -framework GLUT -framework OpenGL -framework Cocoa fileName.cpp -o execName
+./execName
+```
+
 Commands 
 -------
 * x/X : move on X axis
