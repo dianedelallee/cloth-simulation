@@ -36,6 +36,11 @@ Commands
 * ↓ : escape fullscreen
 * q : quit
 
+Images
+------
+![OpenGL img](http://diane-delallee.fr/assets/images/openGL.png)
+
+
 License
 -------
 ![alt cc](https://licensebuttons.net/l/by/3.0/88x31.png)
