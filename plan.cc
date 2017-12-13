@@ -256,7 +256,7 @@ public:
 		for(int x=0; x<nb_particules_large; x++){
 			for(int y=0; y<nb_particules_hauteur; y++){
 				if (x<nb_particules_large-1) creerLien(getParticule(x,y),getParticule(x+1,y));
-				if (y<nb_particules_large-1) creerLien(getParticule(x,y),getParticule(x,y+1));
+				if (y<nb_particules_hauteur-1) creerLien(getParticule(x,y),getParticule(x,y+1));
 				if (x<nb_particules_large-1 && y<nb_particules_hauteur-1) creerLien(getParticule(x,y),getParticule(x+1,y+1));
 				if (x<nb_particules_large-1 && y<nb_particules_hauteur-1) creerLien(getParticule(x+1,y),getParticule(x,y+1));
 			}
